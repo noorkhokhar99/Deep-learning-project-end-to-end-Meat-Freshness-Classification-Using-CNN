@@ -1,11 +1,11 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone. https://github.com/noorkhokhar99/Face-landmarks-detection---Opencv-with-Python.git
+git clone https://github.com/noorkhokhar99/Deep-learning-project-end-to-end-Meat-Freshness-Classification-Using-CNN.git
 ```
 - Goto the cloned folder.
 ```
-cd Face-landmarks-detection---Opencv-with-Python
+cd Deep-learning-project-end-to-end-Meat-Freshness-Classification-Using-CNN
 
 ```
 - Upgrade pip with mentioned command below.
@@ -18,13 +18,13 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`webcam_record.py`
+`app.py`
 
  
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Face-landmarks-detection---Opencv-with-Python/blob/main/Screen%20Shot%201444-04-14%20at%205.54.56%20PM.png">
+<img src="https://github.com/noorkhokhar99/Deep-learning-project-end-to-end-Meat-Freshness-Classification-Using-CNN/blob/main/Screen%20Shot%201444-04-16%20at%209.10.10%20PM.png">
 </p>
 
 
