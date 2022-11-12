@@ -1,26 +1,36 @@
-# Title - Potato Disease Classifier
-# Run 🎯
-### 1. Download or clone the repository
-### 2. Open cmd or terminal
-### 3. change directory (cd) to `potato-disease-classifier`
-### 4. Enter `pip install -r requirements.txt`
-### 5. Enter `python app.py`
+### Steps to run Code
+- Clone the repository.
+```
+git clone. https://github.com/noorkhokhar99/Face-landmarks-detection---Opencv-with-Python.git
+```
+- Goto the cloned folder.
+```
+cd Face-landmarks-detection---Opencv-with-Python
 
-# Tools✅
-**Python 3.7** <br>
-**Flask**<br>
-**Tensorflow 2.6**<br>
-**Numpy**<br>
-**Matplotlib**<br>
-**HTML**<br>
-**CSS**<br>
-**Bootstrap**<br>
-**IDE: VScode**<br>
+```
+- Upgrade pip with mentioned command below.
+```
+pip install --upgrade pip
+```
+- Install requirements with mentioned command below.
+```
+pip install -r requirements.txt
+```
+- Run the code with mentioned command below.
 
-# Tour!🎯
-#### Home page
-![home](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/home.png)
+`webcam_record.py`
+
+ 
 
 
-#### Result page
-![res](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/result.png)
+<p align="center">
+<img src="https://github.com/noorkhokhar99/Face-landmarks-detection---Opencv-with-Python/blob/main/Screen%20Shot%201444-04-14%20at%205.54.56%20PM.png">
+</p>
+
+
+
+
+
+
+### Inference on a video:
+https://www.youtube.com/c/pyresearch
